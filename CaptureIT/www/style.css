@@ -1,0 +1,41 @@
+.header{
+	position: absolute;
+	top: 0; left: 0; right: 0;
+	height: 60px; line-height: 60px;
+	color: #fff;
+	text-align: center;
+	background-color: #3A9A92;
+}
+
+.nav{
+	position: absolute;
+	bottom: 0; left: 0; right: 0;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	background-color:#3A9A92;
+	overflow: hidden;}
+
+.nav a{
+	display: block;
+	width: 50%;
+	float:left;
+} 
+.nav:first-child {border-right:1px solid #fff;}
+.nav a.active{border-top: 3px solid blue;}
+
+.view{
+	position: absolute;
+	top: 60px; left: 0; right: 0; bottom: 60px;
+}
+
+.panel{
+	position: absolute;
+	top: 0; left: 0;right: 0;bottom: 0;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling:touch;
+
+.left{@include transform(translate3D(-50%,0,0));}
+	
+
