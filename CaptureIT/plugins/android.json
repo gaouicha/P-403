@@ -9,6 +9,15 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "fr.gaouicha.captureit"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "fr.gaouicha.captureit"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "fr.gaouicha.captureit"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "fr.gaouicha.captureit"
     }
   },
   "dependent_plugins": {}

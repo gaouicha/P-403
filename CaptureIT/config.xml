@@ -25,4 +25,8 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <engine name="android" spec="^7.1.4" />
+    <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
+    <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <plugin name="cordova-plugin-inappbrowser" spec="^3.0.0" />
 </widget>
