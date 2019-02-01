@@ -1,31 +1,59 @@
 [
     {
-        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
-        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_next_item.png"
     },
     {
-        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
-        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
     },
     {
         "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
         "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
     },
     {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
         "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi_screen.png.flat",
         "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-ldpi\\screen.png"
     },
     {
-        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
-        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
+        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
+        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
     },
     {
         "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_screen.png.flat",
         "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
-        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
     },
     {
         "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
@@ -36,23 +64,99 @@
         "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
     },
     {
-        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
-        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
     },
     {
         "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi_screen.png.flat",
         "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
     },
     {
-        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
-        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
     },
     {
         "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
         "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxhdpi\\screen.png"
     },
     {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-mdpi_screen.png.flat",
+        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-hdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxhdpi_screen.png.flat",
+        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-xhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-hdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi_screen.png.flat",
+        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xxxhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xhdpi_screen.png.flat",
+        "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-port-xhdpi\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
         "merged": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_config.xml.flat",
         "source": "C:\\wamp\\www\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xxxhdpi_screen.png.flat",
+        "source": "C:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\src\\main\\res\\drawable-land-xxxhdpi\\screen.png"
     }
 ]
