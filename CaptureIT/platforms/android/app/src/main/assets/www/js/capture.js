@@ -1,3 +1,9 @@
+window.onload = function() {
+    if(!window.location.hash) {
+        window.location = window.location + '#loaded';
+        window.location.reload();
+    }
+}
 
 function geoloc(){ // ou tout autre nom de fonction
 var geoSuccess = function(position) { // Ceci s'exécutera si l'utilisateur accepte la géolocalisation

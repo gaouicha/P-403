@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 01 12:16:30 CET 2019
+#Fri Feb 01 16:35:23 CET 2019
 17.baseType=DIRECTORY
 4.path=www/cordova.js
 25.base=C\:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\assets\\debug
