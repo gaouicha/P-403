@@ -5,11 +5,12 @@
 	<title>Main page</title>
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/exp.css">
+  <link rel="stylesheet" href="css/menu.css">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-
-
-    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+            crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+        crossorigin=""></script>
     <style>
       .map {
         height: 100%;
@@ -20,6 +21,27 @@
 </head>
 <body>
 
+  <nav role="navigation">
+    <div id="menuToggle">
+      <input type="checkbox" />
+      <span></span>
+      <span></span>
+      <span></span>
+      <ul id="menu">
+        <div class="min_avatar">
+            <img class="avatar_pic" src="img/profile.jpg">
+            <h2>Ghada AOUICHAOUI</h2>
+        </div>
+        <div class="links">
+          <a href="profile.html"><li>Home</li></a>
+          <a href="#"><li>About</li></a>
+          <a href="#"><li>Info</li></a>
+          <a href="index.html"><li>Log out</li></a>
+        </div>
+      </ul>
+    </div>
+  </nav>
+
 <div class="wrapper">
     <div class="picture">
       <img  class="exp_pig_pic " src="img/log_in_back.jpg">
@@ -27,28 +49,18 @@
 <div id="map" class="map"></div>
     
     <div class="form">
-        <form>
-          <input class="hashtag" placeholder="#hashtags"></input>
-          <textarea placeholder="message ..."></textarea>
-          <button class="btn submit">Submit</button>
+        <form name="exp" onsubmit="return submitForm()">
+          <label>Title  :</label><input name="title" placeholder="Enter a title here...">
+          <br/><br/><br/>
+          <input name="hash" class="input100 hashtag" placeholder="#hashtags"></input>
+          <input class="input100 hashtag" placeholder="#moods"></input>
+          <textarea class="input100 message" placeholder="comments ..."></textarea>
+          <input type="submit" class="btn submit" value="Submit"/>
         </form>
     </div>
 </div>
-
-
-<script type="text/javascript">
-      var map = new ol.Map({
-        target: 'map',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          })
-        ],
-        view: new ol.View({
-          center: ol.proj.fromLonLat([37.41, 8.82]),
-          zoom: 4
-        })
-      });
-    </script>
+<script type="text/javascript" src="js/capture.js"></script>
+<script type="text/javascript" src="js/storage.js"></script>
+<script type="text/javascript" src="js/angular.js"></script>
 </body>
 </html>

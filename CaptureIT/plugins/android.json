@@ -18,6 +18,9 @@
     },
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "fr.gaouicha.captureit"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "fr.gaouicha.captureit"
     }
   },
   "dependent_plugins": {}

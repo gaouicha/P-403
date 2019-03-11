@@ -1,0 +1,57 @@
+.wrapper{
+	padding: 1vh;
+	grid-row-gap: 2vh;
+	grid-column-gap: 1%;
+	display: grid;
+	grid-template-rows: 50% 49%;
+	grid-template-columns: 50% 50%;
+	grid-template-areas: "picture map"
+						  "form form";
+	height: 96vh;
+}
+.picture{
+	grid-area: picture;
+	text-align: center;
+}
+.exp_pig_pic{
+	height: 100%;
+}
+.map{
+	grid-area:map ;
+}
+.form{
+	grid-area: form;
+	text-align: center;
+	display: -webkit-inline-box;
+	padding-top: 20px;
+}
+
+.submit{
+	margin-top: 40px;
+	text-align: center;
+    margin: auto;
+}
+
+.hashtag{
+	border-radius: 15px;
+}
+
+.results{
+	margin-top: 50px;
+	strong{
+		display: block;
+	}
+	span{
+		margin-bottom: 20px;
+		display: block;
+	}
+}
+
+.error {
+	margin-top: -20px;
+	background: yellow;
+	padding: .5em;
+	display: inline-block;
+	font-size: .9em;
+	margin-bottom: 20px;
+}

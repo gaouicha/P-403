@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<!--     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/profile.css">
+    <link rel="stylesheet" href="css/menu.css"> -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="shortcut icon" href="../../assets/img/shutter.png"/>
+    <title>Welcome | CaptureIT</title>
+    <!-- <script type="text/javascript" src="js/profile.js"></script> -->
+  </head>
+  <body>
+  	 <nav role="navigation">
+    <div id="menuToggle">
+      <input type="checkbox" />
+      <span></span>
+      <span></span>
+      <span></span>
+      <ul id="menu">
+        <div class="min_avatar">
+            <img class="avatar_pic" src="../../assets/img/profile.jpg">
+            <h2>Ghada AOUICHAOUI</h2>
+        </div>
+        <div class="links">
+          <a routerLink="/experience"><li>Add Experience</li></a>
+          <a routerLink="/"><li>About</li></a>
+          <a routerLink="/"><li>Info</li></a>
+          <a routerLink="/index"><li>Log out</li></a>
+        </div>
+      </ul>
+    </div>
+  </nav>
+
+
+  	<div class="content">
+	  	<div class='profile'>
+	  		<div class="avatar">
+	  			<img class="avatar_pic" src="../../assets/img/profile.jpg">
+	  			<h2>Ghada AOUICHAOUI</h2>
+	  		</div>
+	  	</div>
+
+	  	<div class="exps" >
+	  		<ul>
+	  			<li>
+	  				<ul class="exp" *ngIf="users">
+	  					<li *ngFor="let user of users.data">
+	  						<img class="exp_pic" [src]="user.avatar">
+	  						<p>{{user.first_name}}{{user.last_name}}</p>
+	  						
+	  					</li>
+	  					
+	  				</ul>
+	  			</li>
+	  			<li>
+	  				<a routerLink="/experience">
+		  				<div class="exp ">
+		  					<img  class="exp_pic " src="../../assets/img/exp2.jpg">
+		  					<h2 class="exp_title" >Présentation du projet</h2>
+		  					<p class="exp_adress_1" >173 Rue de Grenelle</p>
+		  					<p class="exp_adress_2" >75007, Paris</p>
+		  					<p class="exp_time" >10:05</p>
+		  					<p class="exp_date" >5/02/2019</p>
+		  				</div>
+		  			</a>
+	  			</li>
+	  				  			<li>
+	  				<a routerLink="/experience">
+		  				<div class="exp exp_color">
+		  					<img  class="exp_pic " src="../../assets/img/exp1.jpg">
+		  					<h2 class="exp_title" >Livre enfin trouvé</h2>
+		  					<p class="exp_adress_1" >655 Avenue du Technopole</p>
+		  					<p class="exp_adress_2" >29280, Plouzané</p>
+		  					<p class="exp_time" >14:50</p>
+		  					<p class="exp_date" >13/02/2019</p>
+		  				</div>
+	  			   	</a>
+	  			</li>
+	  			<li>
+	  				<a routerLink="/experience">
+		  				<div class="exp ">
+		  					<img  class="exp_pic " src="../../assets/img/exp2.jpg">
+		  					<h2 class="exp_title" >Présentation du projet</h2>
+		  					<p class="exp_adress_1" >173 Rue de Grenelle</p>
+		  					<p class="exp_adress_2" >75007, Paris</p>
+		  					<p class="exp_time" >10:05</p>
+		  					<p class="exp_date" >5/02/2019</p>
+		  				</div>
+		  			</a>
+	  			</li>
+	  			<li>
+	  				<a routerLink="/experience">
+		  				<div class="exp exp_color">
+		  					<img  class="exp_pic " src="../../assets/img/exp1.jpg">
+		  					<h2 class="exp_title" >Livre enfin trouvé</h2>
+		  					<p class="exp_adress_1" >655 Avenue du Technopole</p>
+		  					<p class="exp_adress_2" >29280, Plouzané</p>
+		  					<p class="exp_time" >14:50</p>
+		  					<p class="exp_date" >13/02/2019</p>
+		  				</div>
+	  			   	</a>
+	  			</li>
+	  			<li>
+	  				<a routerLink="/experience">
+		  				<div class="exp ">
+		  					<img  class="exp_pic " src="../../assets/img/exp2.jpg">
+		  					<h2 class="exp_title" >Présentation du projet</h2>
+		  					<p class="exp_adress_1" >173 Rue de Grenelle</p>
+		  					<p class="exp_adress_2" >75007, Paris</p>
+		  					<p class="exp_time" >10:05</p>
+		  					<p class="exp_date" >5/02/2019</p>
+		  				</div>
+		  			</a>
+	  			</li>
+	  		</ul>
+	  	</div>
+
+	  	<div class="add">
+	  		<a routerLink="/experience" class="btn">
+	  			+ New Experience
+	  		</a>
+	  	</div>
+  	</div>
+  	
+  </body>
+</html>

@@ -28,5 +28,6 @@
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <preference name="AutoHideSplashScreen" value="false" />
     <plugin name="cordova-plugin-inappbrowser" spec="^3.0.0" />
+    <plugin name="cordova-sqlite-storage" spec="https://github.com/litehelpers/Cordova-sqlite-storage.git" />
     <engine name="android" spec="^7.1.4" />
 </widget>

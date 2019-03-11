@@ -1,4 +1,4 @@
-#Fri Feb 01 16:35:23 CET 2019
+#Wed Mar 06 09:57:11 CET 2019
 base.0=C\:\\Users\\gaouicha\\Desktop\\3A\\P-403\\CaptureIT\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
