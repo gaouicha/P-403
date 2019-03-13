@@ -1,15 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
 MERGED from [:CordovaLib] C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
-INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
-INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
 	package
-		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:102-133
+		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:102-131
 		INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -19,7 +19,7 @@ INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app
 	android:hardwareAccelerated
 		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
 	xmlns:android
-		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:134-192
+		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:132-190
 	android:versionCode
 		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
 		INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml
@@ -52,7 +52,7 @@ ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\sr
 		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
 	android:icon
 		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
-activity#fr.gaouicha.captureit.MainActivity
+activity#fr.gaouicha.capture.MainActivity
 ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
 	android:label
 		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
@@ -90,15 +90,3 @@ INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app
 		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:13:15-41
 		INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:14:5-81
-	android:name
-		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:14:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:15:5-79
-	android:name
-		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:15:22-76
-uses-feature#android.hardware.location.gps
-ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:16:5-66
-	android:name
-		ADDED from C:\Users\gaouicha\Desktop\3A\P-403\CaptureIT\platforms\android\app\src\main\AndroidManifest.xml:16:19-63

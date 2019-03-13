@@ -7,34 +7,10 @@
     "is_top_level": true,
     "variables": {}
   },
-  "cordova-plugin-geolocation": {
+  "cordova-plugin-device": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-geolocation@4.0.1"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-plugin-splashscreen": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-splashscreen@5.0.2"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-plugin-inappbrowser": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-inappbrowser@3.0.0"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-sqlite-storage": {
-    "source": {
-      "type": "registry",
-      "id": "https://github.com/litehelpers/Cordova-sqlite-storage.git"
+      "id": "cordova-plugin-device"
     },
     "is_top_level": true,
     "variables": {}

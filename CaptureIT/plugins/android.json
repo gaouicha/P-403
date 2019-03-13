@@ -8,19 +8,10 @@
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "fr.gaouicha.captureit"
+      "PACKAGE_NAME": "fr.gaouicha.capture"
     },
-    "cordova-plugin-geolocation": {
-      "PACKAGE_NAME": "fr.gaouicha.captureit"
-    },
-    "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "fr.gaouicha.captureit"
-    },
-    "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "fr.gaouicha.captureit"
-    },
-    "cordova-sqlite-storage": {
-      "PACKAGE_NAME": "fr.gaouicha.captureit"
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "fr.gaouicha.capture"
     }
   },
   "dependent_plugins": {}
