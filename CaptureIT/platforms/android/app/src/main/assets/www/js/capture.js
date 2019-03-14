@@ -24,16 +24,15 @@ function initMap(lat,lon) {
 
 }
 
-function geoloc(){ // ou tout autre nom de fonction
+/*function geoloc(){ // ou tout autre nom de fonction
 var geoSuccess = function(position) { // Ceci s'exécutera si l'utilisateur accepte la géolocalisation
   startPos = position;
   lat = startPos.coords.latitude;
   lon = startPos.coords.longitude;
   console.log("lat: "+lat+" - lon: "+lon);
   initMap(lat,lon);
-/*  var macarte = null;*/
-};
 
+};
 
 var geoFail = function(){ // Ceci s'exécutera si l'utilisateur refuse la géolocalisation
   console.log("refus");
@@ -44,7 +43,8 @@ navigator.geolocation.getCurrentPosition(geoSuccess,geoFail);
 };
 
 geoloc();
-
+*/
+initMap(48.3591969,-4.5705157);
 
 function getAllValue(){
   var time = new Date().toLocaleTimeString('fr-FR', { hour12: false, 

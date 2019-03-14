@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Mar 14 23:03:37 CET 2019
+#Thu Mar 14 23:23:02 CET 2019
 124.path=www/fonts/font-awesome-4.7.0/less/core.less
 60.set=ASSET
 52.set=ASSET
