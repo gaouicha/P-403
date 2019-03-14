@@ -26,5 +26,6 @@ function get_id(){
 $( document ).ready(function(){
 	$("#share").click(function(event) { 
 		localStorage.setItem("exp"+get_id(),JSON.stringify(getAllValue()));
+		window.location.href = 'profile.html';
     });
 });
